@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMathVectorLib", "IMathVectorLib\IMathVectorLib.csproj", "{01A8B14E-087F-469D-8613-89BF170F458A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearAlgebra", "LinearAlgebra\LinearAlgebra.csproj", "{EF53593A-E429-46E9-8547-B44DD4168DD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorDemo", "VectorDemo\VectorDemo.csproj", "{5DF64EAB-AB9B-40BD-9734-E7275506B87D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{4D6F827B-D257-44B4-9389-4F73AA0698E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{DD8A09A5-5894-4ABA-982B-AB479D014B9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01A8B14E-087F-469D-8613-89BF170F458A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A8B14E-087F-469D-8613-89BF170F458A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A8B14E-087F-469D-8613-89BF170F458A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A8B14E-087F-469D-8613-89BF170F458A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF53593A-E429-46E9-8547-B44DD4168DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF53593A-E429-46E9-8547-B44DD4168DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF53593A-E429-46E9-8547-B44DD4168DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF53593A-E429-46E9-8547-B44DD4168DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF64EAB-AB9B-40BD-9734-E7275506B87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF64EAB-AB9B-40BD-9734-E7275506B87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF64EAB-AB9B-40BD-9734-E7275506B87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF64EAB-AB9B-40BD-9734-E7275506B87D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D6F827B-D257-44B4-9389-4F73AA0698E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D6F827B-D257-44B4-9389-4F73AA0698E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D6F827B-D257-44B4-9389-4F73AA0698E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D6F827B-D257-44B4-9389-4F73AA0698E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD8A09A5-5894-4ABA-982B-AB479D014B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8A09A5-5894-4ABA-982B-AB479D014B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8A09A5-5894-4ABA-982B-AB479D014B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8A09A5-5894-4ABA-982B-AB479D014B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

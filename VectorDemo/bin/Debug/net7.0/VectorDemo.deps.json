@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "VectorDemo/1.0.0": {
+        "dependencies": {
+          "LinearAlgebra": "1.0.0"
+        },
+        "runtime": {
+          "VectorDemo.dll": {}
+        }
+      },
+      "IMathVectorLib/1.0.0": {
+        "runtime": {
+          "IMathVectorLib.dll": {}
+        }
+      },
+      "LinearAlgebra/1.0.0": {
+        "dependencies": {
+          "IMathVectorLib": "1.0.0"
+        },
+        "runtime": {
+          "LinearAlgebra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VectorDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IMathVectorLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LinearAlgebra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

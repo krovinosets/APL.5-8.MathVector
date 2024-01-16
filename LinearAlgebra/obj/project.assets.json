@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "IMathVectorLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/IMathVectorLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMathVectorLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IMathVectorLib/1.0.0": {
+      "type": "project",
+      "path": "../IMathVectorLib/IMathVectorLib.csproj",
+      "msbuildProject": "../IMathVectorLib/IMathVectorLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "IMathVectorLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\andre\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\env\\RiderProjects\\ConsoleApp1\\LinearAlgebra\\LinearAlgebra.csproj",
+      "projectName": "LinearAlgebra",
+      "projectPath": "C:\\Users\\andre\\OneDrive\\env\\RiderProjects\\ConsoleApp1\\LinearAlgebra\\LinearAlgebra.csproj",
+      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\andre\\OneDrive\\env\\RiderProjects\\ConsoleApp1\\LinearAlgebra\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\andre\\OneDrive\\env\\RiderProjects\\ConsoleApp1\\IMathVectorLib\\IMathVectorLib.csproj": {
+              "projectPath": "C:\\Users\\andre\\OneDrive\\env\\RiderProjects\\ConsoleApp1\\IMathVectorLib\\IMathVectorLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

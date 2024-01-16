@@ -1,0 +1,12 @@
+C:\Users\andre\OneDrive\env\RiderProjects\ConsoleApp1\IMathVectorLib\bin\Debug\net7.0\IMathVectorLib.deps.json
+C:\Users\andre\OneDrive\env\RiderProjects\ConsoleApp1\IMathVectorLib\bin\Debug\net7.0\IMathVectorLib.dll
+C:\Users\andre\OneDrive\env\RiderProjects\ConsoleApp1\IMathVectorLib\bin\Debug\net7.0\IMathVectorLib.pdb
+C:\Users\andre\OneDrive\env\RiderProjects\ConsoleApp1\IMathVectorLib\obj\Debug\net7.0\IMathVectorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\env\RiderProjects\ConsoleApp1\IMathVectorLib\obj\Debug\net7.0\IMathVectorLib.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\env\RiderProjects\ConsoleApp1\IMathVectorLib\obj\Debug\net7.0\IMathVectorLib.AssemblyInfo.cs
+C:\Users\andre\OneDrive\env\RiderProjects\ConsoleApp1\IMathVectorLib\obj\Debug\net7.0\IMathVectorLib.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\env\RiderProjects\ConsoleApp1\IMathVectorLib\obj\Debug\net7.0\IMathVectorLib.dll
+C:\Users\andre\OneDrive\env\RiderProjects\ConsoleApp1\IMathVectorLib\obj\Debug\net7.0\refint\IMathVectorLib.dll
+C:\Users\andre\OneDrive\env\RiderProjects\ConsoleApp1\IMathVectorLib\obj\Debug\net7.0\IMathVectorLib.pdb
+C:\Users\andre\OneDrive\env\RiderProjects\ConsoleApp1\IMathVectorLib\obj\Debug\net7.0\ref\IMathVectorLib.dll
+C:\Users\andre\OneDrive\env\RiderProjects\ConsoleApp1\IMathVectorLib\obj\Debug\net7.0\IMathVectorLib.csproj.AssemblyReference.cache
